@@ -33,7 +33,7 @@ echo "
          <li>Consulter, réaliser ou modifier les attributions des chambres aux groupes dans les établissements.
       </ul>
       </td>
-   </tr>
+   </tr> 
 </table>";
 
 ?>
